@@ -1,4 +1,1 @@
-# phptest
-
-##メンバ
-*test1
+# test
